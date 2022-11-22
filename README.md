@@ -1,4 +1,4 @@
-# Safe-RL-for-Autonomous-Driving
+# Trusted-RL-for-Autonomous-Driving
 
 
 
