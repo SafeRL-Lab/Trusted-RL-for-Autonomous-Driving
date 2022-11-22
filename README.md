@@ -52,8 +52,26 @@ The README is organized as follows:
 
 #### 2.2. Uncertainty in RL
 
-- Robust Multi-Agent Reinforcement Learning with Model Uncertainty, [Paper](https://proceedings.neurips.cc/paper/2020/file/774412967f19ea61d448977ad9749078-Paper.pdf), Not Find Code, (Accepted by NeurIPS 2020)
+- Robust Multi-Agent Reinforcement Learning with Model Uncertainty, [Paper](https://proceedings.neurips.cc/paper/2020/file/774412967f19ea61d448977ad9749078-Paper.pdf), Not Find Code (Accepted by NeurIPS 2020)
 
+- Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk, [Paper](https://arxiv.org/pdf/2206.04436.pdf), Not Find Code (Arxiv, 2022)
 
+- Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving, [Paper](https://arxiv.org/pdf/1610.03295.pdf), Not Find Code (Arxiv, Citation 300+, 2016)
 
-- A Safety Aware Model-Based Reinforcement Learning Framework for Systems with Uncertainties, [Paper](https://scc-lab.github.io/Preprints/SCC.Mahmud.Hareland.ea2021.pdf), Not Find Code, (Accepted by ACC 2021)
+- Motion Planning for Autonomous Vehicles in the Presence of Uncertainty Using Reinforcement Learning, [Paper]([https://arxiv.org/pdf/2110.00640v1.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636480)), Not Find Code (Accepted by IEEE International Workshop on Intelligent Robots and Systems, 2021)
+
+- Reachability-based Trajectory Safeguard (RTS): A Safe and Fast Reinforcement Learning Safety Layer for Continuous Control, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369910), Not Find Code (Accepted by IEEE RAL, 2021)
+
+- A Safety Aware Model-Based Reinforcement Learning Framework for Systems with Uncertainties, [Paper](https://scc-lab.github.io/Preprints/SCC.Mahmud.Hareland.ea2021.pdf), Not Find Code (Accepted by American Control Conference, 2021)
+
+- Constrained Reinforcement Learning for Dynamic Optimization under Uncertainty, [Paper](https://www.sciencedirect.com/science/article/pii/S2405896320306455), Not Find Code (Accepted by IFAC, 2020)
+
+- Benchmarking Safe Deep Reinforcement Learning in Aquatic Navigation, [Paper](https://arxiv.org/pdf/2110.00640v1.pdf), Not Find Code (Accepted by IROS, 2021)
+
+- Safe Reinforcement Learning with Model Uncertainty Estimates, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793611), Not Find Code (Accepted by IEEE International Conference on Robotics and Automation, 2019)
+
+- Uncertainty-aware Contact-safe Model-based Reinforcement Learning, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9376242), Not Find Code (Accepted by IEEE RAL, 2021)
+
+- Uncertainty-Aware Reinforcement Learning for Collision Avoidance, [Paper](https://arxiv.org/pdf/1702.01182.pdf), Not Find Code (Arxiv, 2017)
+
+- 
