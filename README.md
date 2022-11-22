@@ -50,4 +50,6 @@ The README is organized as follows:
 
 - High-Confidence Off-Policy Evaluation, [Paper](https://www.ics.uci.edu/~dechter/courses/ics-295/winter-2018/papers/2015Thomas2015.pdf), [Code](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baseline/tree/main/Safe-RL/safeRL) (Accepted by AAAI 2015)
 
+#### 2.2. Uncertainty in RL
 
+- A Safety Aware Model-Based Reinforcement Learning Framework for Systems with Uncertainties, [Paper](https://scc-lab.github.io/Preprints/SCC.Mahmud.Hareland.ea2021.pdf), [Code]Not Find Code, (Accepted by ACC 2021)
