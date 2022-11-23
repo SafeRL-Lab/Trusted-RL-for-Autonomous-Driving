@@ -74,4 +74,13 @@ The README is organized as follows:
 
 - Uncertainty-Aware Reinforcement Learning for Collision Avoidance, [Paper](https://arxiv.org/pdf/1702.01182.pdf), Not Find Code (Arxiv, 2017)
 
-- 
+- Lyapunov-based uncertainty-aware safe reinforcement learning, [Paper](https://arxiv.org/ftp/arxiv/papers/2107/2107.13944.pdf), Not Find Code (Arxiv, 2021)
+
+- Reinforcement Learning with Uncertainty Estimation for Tactical Decision-Making in Intersections, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294407), Not Find Code (Accepted by IEEE International Conference on Intelligent Transportation Systems, 2020)
+
+- Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, [Paper](https://proceedings.mlr.press/v80/haarnoja18b.html), [Code](https://github.com/haarnoja/sac) (Accepted by International Conference on Machine Learning, 2018)
+
+- Reinforcement Learning Under Moral Uncertainty, [Paper](https://proceedings.mlr.press/v139/ecoffet21a.html), [Code](https://github.com/uber-research/normative-uncertainty) (Accepted by International Conference on Machine Learning, 2021)
+
+- Distributional Reinforcement Learning with Quantile Regression, [Paper](https://arxiv.org/pdf/1710.10044.pdf), Not Find Code (Arxiv, 2019)
+
