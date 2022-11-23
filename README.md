@@ -84,3 +84,8 @@ The README is organized as follows:
 
 - Distributional Reinforcement Learning with Quantile Regression, [Paper](https://arxiv.org/pdf/1710.10044.pdf), Not Find Code (Arxiv, 2019)
 
+- Estimating Risk and Uncertainty in Deep Reinforcement Learning, [Paper](https://arxiv.org/abs/1905.09638), [Code](https://github.com/IndustAI/risk-and-uncertainty) (Accepted by ICML, 2020)
+
+- Reinforcement Learning for Safety-Critical Control under Model Uncertainty, using Control Lyapunov Functions and Control Barrier Functions, [Paper](https://arxiv.org/pdf/2004.07584.pdf), Not Find Code (Arxiv, 2020)
+
+- Automated Lane Change Decision Making using Deep Reinforcement Learning in Dynamic and Uncertain Highway Environment, [Paper](https://ieeexplore.ieee.org/document/8917192), Not Find Code (Accepted by IEEE Intelligent Transportation Systems Conference, 2019)
