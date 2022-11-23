@@ -99,3 +99,23 @@ The README is organized as follows:
 - NETWORK RANDOMIZATION: A SIMPLE TECHNIQUE FOR GENERALIZATION IN DEEP REINFORCEMENT LEARNING, [Paper](http://arxiv.org/abs/1910.05396), [Code](https://github.com/pokaxpoka/netrand) (Accepted by ICLR, 2020)
 
 - Invariant Policy Optimization: Towards Stronger Generalization in Reinforcement Learning, [Paper](http://proceedings.mlr.press/v144/sonar21a/sonar21a.pdf), [Code](https://github.com/irom-lab/Invariant-Policy-Optimization) (Accepted by Learning for Dynamics and Control, 2021)
+
+- Improving Generalization in Reinforcement Learning with Mixture Regularization, [Paper](https://proceedings.neurips.cc/paper/2020/file/5a751d6a0b6ef05cfe51b86e5d1458e6-Paper.pdf), [Code](https://github.com/kaixin96/mixreg) (Accepted by Neural Information Processing Systems, 2020)
+
+- High Confidence Generalization for Reinforcement Learning, [Paper](http://proceedings.mlr.press/v139/kostas21a/kostas21a.pdf), Not Find Code (Accepted by International Conference on Machine Learning, 2021)
+
+- Generalization of Reinforcement Learning with Policy-Aware Adversarial Data Augmentation, [Paper](https://arxiv.org/pdf/2106.15587.pdf), Not Find Code (Arxiv, 2021)
+
+- Generalization in Reinforcement Learning: Safely Approximating the Value Function, [Paper](https://proceedings.neurips.cc/paper/1994/file/ef50c335cca9f340bde656363ebd02fd-Paper.pdf), Not Find Code (Accepted by Advances in Neural Information Processing Systems(NIPS), 1994)
+
+- Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck, [Paper](https://proceedings.neurips.cc/paper/2019/hash/e2ccf95a7f2e1878fcafc8376649b6e8-Abstract.html), [Code](https://github.com/microsoft/IBAC-SNI/) (Accepted by NeurIPS, 2019)
+
+- Generalization in Reinforcement Learning by Soft Data Augmentation, [Paper](https://ieeexplore.ieee.org/document/9561103/), [Code](https://github.com/nicklashansen/dmcontrol-generalization-benchmark) (Accepted by IEEE International Conference on Robotics and Automation (ICRA), 2021)
+
+- Generalization and Regularization in DQN, [Paper](http://arxiv.org/abs/1810.00123), Not Find Code (Arxiv, 2020)
+
+- Dynamics Generalization via Information Bottleneck in Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/2008.00614.pdf), Not Find Code (Arxiv, 2020)
+
+- Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World, [Paper](https://ieeexplore.ieee.org/abstract/document/8202133), Not Find Code (Accepted by IEEE International Conference on Intelligent Robots and Systems (IROS), 2017)
+
+- Active Domain Randomization, [Paper](https://proceedings.mlr.press/v100/mehta20a.html), Not Find Code (Accepted by Conference on Robot Learning, 2020)
