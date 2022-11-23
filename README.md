@@ -89,3 +89,13 @@ The README is organized as follows:
 - Reinforcement Learning for Safety-Critical Control under Model Uncertainty, using Control Lyapunov Functions and Control Barrier Functions, [Paper](https://arxiv.org/pdf/2004.07584.pdf), Not Find Code (Arxiv, 2020)
 
 - Automated Lane Change Decision Making using Deep Reinforcement Learning in Dynamic and Uncertain Highway Environment, [Paper](https://ieeexplore.ieee.org/document/8917192), Not Find Code (Accepted by IEEE Intelligent Transportation Systems Conference, 2019)
+
+#### 2.3. Generalization in RL
+
+- Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, [Paper](http://proceedings.mlr.press/v70/oh17a/oh17a.pdf), Not Find Code (Accepted by International Conference on Machine Learning, 2017)
+
+- Quantifying Generalization in Reinforcement Learning, [Paper](https://proceedings.mlr.press/v97/cobbe19a.html), [Code](https://github.com/openai/coinrun) (Accepted by International Conference on Machine Learning, 2019)
+
+- NETWORK RANDOMIZATION: A SIMPLE TECHNIQUE FOR GENERALIZATION IN DEEP REINFORCEMENT LEARNING, [Paper](http://arxiv.org/abs/1910.05396), [Code](https://github.com/pokaxpoka/netrand) (Accepted by ICLR, 2020)
+
+- Invariant Policy Optimization: Towards Stronger Generalization in Reinforcement Learning, [Paper](http://proceedings.mlr.press/v144/sonar21a/sonar21a.pdf), [Code](https://github.com/irom-lab/Invariant-Policy-Optimization) (Accepted by Learning for Dynamics and Control, 2021)
