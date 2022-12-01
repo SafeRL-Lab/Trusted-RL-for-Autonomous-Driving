@@ -90,6 +90,11 @@ The README is organized as follows:
 
 - Automated Lane Change Decision Making using Deep Reinforcement Learning in Dynamic and Uncertain Highway Environment, [Paper](https://ieeexplore.ieee.org/document/8917192), Not Find Code (Accepted by IEEE Intelligent Transportation Systems Conference, 2019)
 
+- Online Robust Reinforcement Learning with Model Uncertainty, [Paper](https://proceedings.neurips.cc/paper/2021/hash/3a4496776767aaa99f9804d0905fe584-Abstract.html), Not Find Code (Accepted by Advances in Neural Information Processing Systems)
+
+- Uncertainty-driven Imagination for Continuous Deep Reinforcement Learning, [Paper](https://proceedings.mlr.press/v78/kalweit17a.html), (Accepted by Conference on Robot Learning)
+
+
 #### 2.3. Generalization in RL
 
 - Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, [Paper](http://proceedings.mlr.press/v70/oh17a/oh17a.pdf), Not Find Code (Accepted by International Conference on Machine Learning, 2017)
