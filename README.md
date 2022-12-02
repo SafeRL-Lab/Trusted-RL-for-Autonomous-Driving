@@ -100,6 +100,8 @@ The README is organized as follows:
 
 - Reinforcement-Learning-Based Energy Storage System Operation Strategies to Manage Wind Power Forecast Uncertainty, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8967100), Not Find Code (Accepted by IEEE Access)
 
+- Improving probabilistic image registration via reinforcement learning and uncertainty evaluation, [Paper](http://link.springer.com/10.1007/978-3-319-02267-3_24), Not Find Code (Accpeted by Machine Learning in Medical Imaging)
+
 #### 2.3. Generalization in RL
 
 - Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, [Paper](http://proceedings.mlr.press/v70/oh17a/oh17a.pdf), Not Find Code (Accepted by International Conference on Machine Learning, 2017)
