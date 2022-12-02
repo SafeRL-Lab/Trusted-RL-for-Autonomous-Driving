@@ -98,6 +98,8 @@ The README is organized as follows:
 
 - Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble, [Paper](https://proceedings.neurips.cc/paper/2021/hash/3d3d286a8d153a4a58156d0e02d8570c-Abstract.html), [Code](https://github.com/snu-mllab/EDAC) (Accepted by Advances in Neural Information Processing Systems)
 
+- Reinforcement-Learning-Based Energy Storage System Operation Strategies to Manage Wind Power Forecast Uncertainty, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8967100), Not Find Code (Accepted by IEEE Access)
+
 #### 2.3. Generalization in RL
 
 - Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, [Paper](http://proceedings.mlr.press/v70/oh17a/oh17a.pdf), Not Find Code (Accepted by International Conference on Machine Learning, 2017)
