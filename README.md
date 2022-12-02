@@ -100,6 +100,10 @@ The README is organized as follows:
 
 - Reinforcement-Learning-Based Energy Storage System Operation Strategies to Manage Wind Power Forecast Uncertainty, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8967100), Not Find Code (Accepted by IEEE Access)
 
+- SENTINEL: Taming Uncertainty with Ensemble based Distributional Reinforcement Learning, [Paper](https://proceedings.mlr.press/v180/eriksson22a.html), Not Find Code (Accepted by Uncertainty in Artificial Intelligence)
+
+- Exploring State Transition Uncertainty in Variational Reinforcement Learning, [Paper](https://ieeexplore.ieee.org/document/9287440/), Not Find Code (Accepted by 2020 28th European Signal Processing Conference (EUSIPCO))
+
 #### 2.3. Generalization in RL
 
 - Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, [Paper](http://proceedings.mlr.press/v70/oh17a/oh17a.pdf), Not Find Code (Accepted by International Conference on Machine Learning, 2017)
